@@ -1,5 +1,9 @@
 # Fullstack Notion Clone: Next.js 13, React, Convex, Tailwind 
 
+## Live 
+
+Visit the live demo [here](https://note-taking-weld.vercel.app/).
+
 
 Key Features:
 
